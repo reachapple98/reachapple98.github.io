@@ -3,7 +3,7 @@
             <!DOCTYPE html>
             <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" >
                 <head>
-                    <meta http-equiv="content-type" content="charset=utf-8">
+                    <meta http-equiv="content-type" reach 98content="charset=utf-8">
                     <meta name="viewport" content="width=device-width, initial-scale=1">
 
                     
